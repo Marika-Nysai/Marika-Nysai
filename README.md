@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 # 💫 About Me:
-Hey my name is Marika, nice to see you here! I love design and software development ✨
-🔭 I’m currently working on creating my personal website<br>🌱 I’m currently learning React & Node.Js<br
+Hey my name is Marika, nice to see you here! <br> I love design and software development ✨
+<br>🔭 I’m currently working on creating my personal website<br>🌱 I’m currently learning React & Node.Js<br
 
 
 # 💻 Tech Stack:
